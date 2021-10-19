@@ -34,6 +34,12 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+First, I encountered some trouble with the environment because it was a different version of Android studio, so some features were different such as finding 
+code/design bar for the xml files, and also for github, recently they stopped using password authentication, and I had to learn how to connect to my repository
+in github with the personal access token, also how to create a token.
+Second, I really struggled keeping up with the videos, because it was new content for me and was a bit hard to digest when the video progreesed quickly. I am
+still quite familiar with some functions of the program, but personally I think that it is part of the process on starting something new.
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
